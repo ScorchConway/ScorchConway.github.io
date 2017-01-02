@@ -1,0 +1,16 @@
+h1 {
+  color: black;
+  text-align: center;
+}
+
+#about {
+  font-family:serif;
+  font-size:1em;
+  margin:15px;
+  text-align:left;
+
+}
+
+td:first-child {
+  background-color:lightgrey;
+}
