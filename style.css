@@ -14,3 +14,7 @@ h1 {
 td:first-child {
   background-color:lightgrey;
 }
+
+#resume {
+  align-items: center;
+}
