@@ -7,12 +7,19 @@ h2 {
   text-align: center;
 }
 
+#top {
+  border-top: 20px;
+}
+
 #about {
   font-family:serif;
   font-size:1em;
   margin:15px;
   text-align:left;
+}
 
+#myCode {
+  margin:15px;
 }
 
 td:first-child, td:nth-child(2)  {
