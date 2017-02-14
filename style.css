@@ -3,6 +3,10 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  text-align: center;
+}
+
 #about {
   font-family:serif;
   font-size:1em;
@@ -11,8 +15,12 @@ h1 {
 
 }
 
-td:first-child {
+td:first-child, td:nth-child(2)  {
   background-color:lightgrey;
+}
+
+table, th, td {
+  border: 1px solid black;
 }
 
 #resume {
